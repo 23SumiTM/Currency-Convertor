@@ -1,0 +1,1 @@
+A currency converter project is a software program that allows users to convert one currency to another based on the current market or bank exchange rates. Currency converter projects can be used as web sites or mobile apps.
